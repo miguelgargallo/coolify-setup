@@ -1,0 +1,2 @@
+# coolify-setup
+Coolify Setup
